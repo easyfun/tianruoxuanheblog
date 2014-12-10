@@ -6,6 +6,12 @@ Slug: websites
 Author: TianHeYJB
 Summary:
 
+###Go学习资料###
+1. [官方网站](https://golang.org)
+2. [官网在线教程](https://tour.golang.org/welcome/1)
+3. [官网在线教程-中文](http://tour.golangtc.com/)
+4. [Golang中文社区](http://studygolang.com/)
+
 
 ###Git教程###
 1. [Git教程by廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
