@@ -11,6 +11,7 @@ Summary:
 2. [官网在线教程](https://tour.golang.org/welcome/1)
 3. [官网在线教程-中文](http://tour.golangtc.com/)
 4. [Golang中文社区](http://studygolang.com/)
+5. [在windows环境中配置go语言开发环境](http://www.cppblog.com/cc/archive/2013/02/07/197762.html)
 
 
 ###Git教程###
