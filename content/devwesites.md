@@ -30,12 +30,27 @@ Summary:
 ###Python###
 1. [SWIG:c/c++扩展python](http://www.swig.org/)
 2. [dragondjf的博客](http://dragondjf.github.io/)
+3. [c++与python混合编程ffpython]
 
 >django框架<br/>
->1. [django document](https://docs.djangoproject.com/en/dev/)
->2. [The Django Book](http://djangobook.py3k.cn/)
->3. [djnago基础教程](http://www.ziqiangxuetang.com/django/django-tutorial.html)
+>>1. [django document](https://docs.djangoproject.com/en/dev/)<br/>
+>>2. [The Django Book](http://djangobook.py3k.cn/)<br/>
+>>3. [djnago基础教程](http://www.ziqiangxuetang.com/django/django-tutorial.html)
 
+###PyQt4学习资料###
+1. [ZetCode](http://zetcode.com/)
+2. [RiverBank](http://www.riverbankcomputing.com/news)
+3. [啄木鸟社区](http://wiki.woodpecker.org.cn/moin/PyQt)
+4. [GUI Programming with Python: QT Edition](http://www.commandprompt.com/community/pyqt/book1)
+5. [python-PyQt](https://wiki.python.org/moin/PyQt)
+
+
+###C++桌面应用编程###
+1. [MFC,太古老，封装不友好,不内置*布局管理器*,不提倡使用]
+2. [Qt，跨平台，封装友好，内置*布局管理器*,很值得使用]
+3. [DuiLib,国人开源的DirectUI,有小bug，但是很强大]
+4. [Webkit]
+5. [LibCEF]
 
 ###笔记应用###
 1. [印象笔记EverNote](https://http//www.yinxiang.com/)
@@ -46,14 +61,6 @@ Summary:
 1. [马克飞象](http://maxiang.info/)
 2. [Markdown学习](http://www.douban.com/review/6617667/)
 3. [Markdown学习教程](http://wowubuntu.com/markdown/index.html)
-
-
-###PyQt4学习资料###
-1. [ZetCode](http://zetcode.com/)
-2. [RiverBank](http://www.riverbankcomputing.com/news)
-3. [啄木鸟社区](http://wiki.woodpecker.org.cn/moin/PyQt)
-4. [GUI Programming with Python: QT Edition](http://www.commandprompt.com/community/pyqt/book1)
-5. [python-PyQt](https://wiki.python.org/moin/PyQt)
 
 
 ###Web后端技术###
