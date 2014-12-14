@@ -94,6 +94,9 @@ Summary:
 4. [Remember Aaron Swartz](http://www.rememberaaronsw.com/memories/)
 
 
+###12306抢票###
+1. [12306订票助手.net](http://www.fishlee.net/soft/12306/)
+
 
 ###开源项目###
 1. [GENIVI Open Source Project and Baseline](http://projects.genivi.org/projects)
