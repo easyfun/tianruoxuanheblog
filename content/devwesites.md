@@ -3,7 +3,7 @@ Date: 2014-12-09
 Category: websites 
 Tags: websites 
 Slug: websites
-Author: TianHeYJB
+Author: tianruoxuanhe
 Summary:
 
 ###Go学习资料###
