@@ -21,3 +21,17 @@ c++已经使用三年，方方面面都有所了解，需要进一步提升。�
 6. effective c++(写高性能的代码)
 7. c++ object modal
 8. 设计模式
+
+
+
+丢掉IDE，使用VIM、makefile
+
+冷落VS，使用gcc，g++，用跨平台的解决方案
+
+高效，高品质，高性能
+
+服务端：linux
+
+桌面：windows，mac，ubantu
+
+移动：ios，anriod
