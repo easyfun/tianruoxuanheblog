@@ -103,3 +103,8 @@ Summary:
 1. [GENIVI Open Source Project and Baseline](http://projects.genivi.org/projects)
 2. [轻量级c++插件框架-跨平台](http://pluma-framework.sourceforge.net/)
 3. [flask web框架](https://github.com/mitsuhiko/flask)
+
+###视频公开课频道
+1. [慕课网](http://www.imooc.com/)
+2. [网易云课堂](http://study.163.com/)
+3. [51网](http://www.51zxw.net/)
