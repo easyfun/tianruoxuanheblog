@@ -1,6 +1,6 @@
 Title: 书柜
 Date: 2014-12-15 
-Category: books 
+Category: websites 
 Tags: books
 Slug: books
 Author: tianruoxuanhe

@@ -1,6 +1,6 @@
-Title: Nginx
+Title: Nginx Note
 Date: 2014-12-15 
-Category: Nginx Note 
+Category: websites 
 Tags: Nginx
 Slug: Nginx
 Author: tianruoxuanhe

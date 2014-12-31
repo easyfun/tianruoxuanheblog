@@ -1,12 +1,14 @@
-Title: Windows编程 
+Title: VC6.0命令行编译及使用makefile编译的方法
 Date: 2014-12-27 
-Category: Windows Programming 
+Category: websites 
 Tags: Windows 
 Slug: Windows
 Author: tianruoxuanhe
 Summary:
 
 ##VC6.0命令行编译及使用makefile编译的方法
+
+转载、来源：http://blog.csdn.net/cs_21cn/article/details/8015596
 
 VC6是挺经典的一个IDE，但有时编译比较慢。作为一个典型的程序员，我总想让电脑多做点事，自己少点事。编译软件也一样，又是能够执行后不管了，让程序自己慢慢编译，人可以做其他事情，或者直接写成批处理，自动的一个个慢慢执行编译就好了。所以一直想探索一下vc6环境怎么使用命令行编译，以及vc6怎么使用makefile编译。
 

@@ -1,6 +1,6 @@
 Title: study plan 
 Date: 2014-12-16 
-Category: study plan 
+Category: websites 
 Tags: c/c++ 
 Slug: c/c++
 Author: tianruoxuanhe
