@@ -109,3 +109,4 @@ Summary:
 2. [网易云课堂](http://study.163.com/)
 3. [51网](http://www.51zxw.net/)
 4. [腾讯精品课](http://class.qq.com/)
+5. [腾讯课堂](http://ke.qq.com/index.html)
