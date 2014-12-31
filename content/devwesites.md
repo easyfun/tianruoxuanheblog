@@ -110,3 +110,8 @@ Summary:
 3. [51网](http://www.51zxw.net/)
 4. [腾讯精品课](http://class.qq.com/)
 5. [腾讯课堂](http://ke.qq.com/index.html)
+6. [新浪公开课](http://open.sina.com.cn/)
+7. [网易公开课]( http://open.163.com/)
+
+### 好的节目
+1. 听君一席话
