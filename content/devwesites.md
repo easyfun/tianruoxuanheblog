@@ -93,6 +93,7 @@ Summary:
 3. [多多指教-寒山居士](http://www.heilqt.com/)
 4. [Remember Aaron Swartz](http://www.rememberaaronsw.com/memories/)
 5. [爱拼才会赢](http://blog.chinaunix.net/uid/21411227/cid-63639-list-1.html)
+6. [至简李云](http://yunli.blog.51cto.com/831344/1019990)
 
 
 ###12306抢票###
