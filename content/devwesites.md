@@ -114,5 +114,13 @@ Summary:
 6. [新浪公开课](http://open.sina.com.cn/)
 7. [网易公开课]( http://open.163.com/)
 
+###论坛
+1. [外刊IT评论](http://www.vaikan.com/)
+2. [51cto](http://www.51cto.com/)
+3. [开源中国](http://www.oschina.net/)
+4. [Github](www.github.com)
+
+
+
 ### 好的节目
 1. 听君一席话
