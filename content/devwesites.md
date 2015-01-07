@@ -113,6 +113,7 @@ Summary:
 5. [腾讯课堂](http://ke.qq.com/index.html)
 6. [新浪公开课](http://open.sina.com.cn/)
 7. [网易公开课]( http://open.163.com/)
+8. [开源力量](http://www.osforce.cn/)
 
 ###论坛
 1. [外刊IT评论](http://www.vaikan.com/)
