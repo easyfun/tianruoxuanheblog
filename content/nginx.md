@@ -1,4 +1,4 @@
-Title: Nginx Note
+Title: Nginx学习笔记
 Date: 2014-12-15 
 Category: websites 
 Tags: Nginx
