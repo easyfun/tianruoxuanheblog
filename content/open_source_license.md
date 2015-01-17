@@ -12,4 +12,4 @@ Summary:
 2. LGPL
 3. BSD
 4. MIT
-5. Apaache
+5. Apache
