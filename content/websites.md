@@ -121,6 +121,7 @@ Summary:
 3. [开源中国](http://www.oschina.net/)
 4. [Github](www.github.com)
 5. [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
+6. [全球最大苹果开发者中文社区](http://www.cocoachina.com/)
 
 
 
