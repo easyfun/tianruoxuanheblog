@@ -123,6 +123,9 @@ Summary:
 5. [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 6. [全球最大苹果开发者中文社区](http://www.cocoachina.com/)
 
+###Flask教程
+1. [欢迎进入Flask大型教程项目！](http://www.pythondoc.com/flask-mega-tutorial/index.html)
+2. [Flask中文学习网](http://flask123.sinaapp.com/)
 
 
 ### 好的节目
