@@ -62,6 +62,9 @@ Summary:
 2. [Markdown学习](http://www.douban.com/review/6617667/)
 3. [Markdown学习教程](http://wowubuntu.com/markdown/index.html)
 
+###Web前端
+1. [easyicon](http://www.easyicon.net/)
+2. [flat UI](http://www.bootcss.com/p/flat-ui/)
 
 ###Web后端技术###
 1. [oneoo's私家花园](http://oneoo.com/all-posts/)
