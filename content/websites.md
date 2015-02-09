@@ -91,12 +91,13 @@ Summary:
 
 
 ###大神全集###
-1. [foruok](http://blog.csdn.net/foruok/article/details/40247543)
-2. [酷壳网-陈皓](http://coolshell.cn/haoel)
-3. [多多指教-寒山居士](http://www.heilqt.com/)
-4. [Remember Aaron Swartz](http://www.rememberaaronsw.com/memories/)
-5. [爱拼才会赢](http://blog.chinaunix.net/uid/21411227/cid-63639-list-1.html)
-6. [至简李云](http://yunli.blog.51cto.com/831344/1019990)
+[阮一峰](http://www.ruanyifeng.com/home.html)
+[至简李云](http://yunli.blog.51cto.com/831344/1019990)
+[foruok](http://blog.csdn.net/foruok/article/details/40247543)
+[酷壳网-陈皓](http://coolshell.cn/haoel)
+[多多指教-寒山居士](http://www.heilqt.com/)
+[Remember Aaron Swartz](http://www.rememberaaronsw.com/memories/)
+[爱拼才会赢](http://blog.chinaunix.net/uid/21411227/cid-63639-list-1.html)
 
 
 ###12306抢票###
