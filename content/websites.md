@@ -6,6 +6,9 @@ Slug: websites
 Author: tianruoxuanhe
 Summary:
 
+###Linux学习###
+1. [Linux中国](http://linux.cn/thread-13224-1-1.html)
+
 ###Go学习资料###
 1. [官方网站](https://golang.org)
 2. [官网在线教程](https://tour.golang.org/welcome/1)
