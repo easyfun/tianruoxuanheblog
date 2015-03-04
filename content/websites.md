@@ -10,6 +10,8 @@ Summary:
 1. [Linux中国](http://linux.cn/thread-13224-1-1.html)
 2. [数据结构自考网](http://student.zjzk.cn/course_ware/data_structure/web/main.htm)
 3. [CentOS下使用VIM打造C/C++开发环境](http://blog.csdn.net/fbfsber008/article/details/7044723)
+4. [在CentOS 6.2上搭建Vim开发环境](http://www.linuxidc.com/Linux/2013-07/87363.htm)
+5. [Linux公社](http://www.linuxidc.com/index.htm)
 
 ###Go学习资料###
 1. [官方网站](https://golang.org)
