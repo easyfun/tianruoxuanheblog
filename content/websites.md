@@ -9,6 +9,7 @@ Summary:
 ###Linux学习###
 1. [Linux中国](http://linux.cn/thread-13224-1-1.html)
 2. [数据结构自考网](http://student.zjzk.cn/course_ware/data_structure/web/main.htm)
+3. [CentOS下使用VIM打造C/C++开发环境](http://blog.csdn.net/fbfsber008/article/details/7044723)
 
 ###Go学习资料###
 1. [官方网站](https://golang.org)
