@@ -13,6 +13,7 @@ Summary:
 4. [在CentOS 6.2上搭建Vim开发环境](http://www.linuxidc.com/Linux/2013-07/87363.htm)
 5. [Linux公社](http://www.linuxidc.com/index.htm)
 6. [Eclipse编辑器基本设置](http://www.cnblogs.com/decarl/archive/2012/05/15/2502084.html)
+7. [虚拟机Vmware中CentOS访问Windows中的文件教程](http://www.111cn.net/sys/CentOS/72976.htm)
 
 ###Go学习资料###
 1. [官方网站](https://golang.org)
